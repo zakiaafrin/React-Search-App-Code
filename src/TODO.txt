@@ -1,0 +1,10 @@
+________________________________________________________________________________________________________
+
+1 - Create the user interface: Input srch box.__
+2 - Table of results. 
+3 - Search should be dynamic. 
+4 - Caching. So as user returns new result sets, the old result sets stay around. 
+5 - User should be able to delete individual stories from the result set. 
+6 - Should be fast. 
+7 - Should be smooth. 
+8 - Should be configurable at the code level. 
